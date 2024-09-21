@@ -51,3 +51,8 @@ header,
   display: flex;
   font-size: 2rem;
 }
+
+footer p {
+  font-size: 0.9rem;
+  text-align: center;
+}
